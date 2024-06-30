@@ -96,6 +96,6 @@ main span{
 
 @media (max-width: 480px){
     .title{
-        font-size: 2rem;
+        font-size: 4.5rem;
     }
 }
