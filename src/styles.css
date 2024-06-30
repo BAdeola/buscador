@@ -81,7 +81,7 @@ main span{
 
 @media (max-width: 620px){
     .title{
-        font-size: 7rem;
+        font-size: 6rem;
     }
 
     main h2{
