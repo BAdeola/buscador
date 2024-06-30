@@ -93,3 +93,9 @@ main span{
         min-height: 25rem;
     }
 }
+
+@media (max-width: 480px){
+    .title{
+        font-size: 5rem;
+    }
+}
